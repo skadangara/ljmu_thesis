@@ -15,7 +15,7 @@ The project develops a hybrid Variational Autoencoder (VAE) and AI-Agent-based R
 
 This project presents a hybrid AI framework for generating sustainable, multi-segment logistics routes that minimize carbon emissions while maintaining practical feasibility. A Variational Autoencoder (VAE) was developed to predict optimal distance–emission trade-offs across transportation modes. These predictions were then integrated with a GPT-4.0-based AI agent, which generated realistic multi-modal routes (e.g., combining Cargo Train and Container Ship) under emission and distance constraints.
 
-The combined approach demonstrated that generative models and large language models (LLMs) can jointly improve logistics decision-making by balancing sustainability and operational practicality. Experimental results showed up to 53% emission reduction across valid generated routes, confirming the potential of AI-driven optimization for green supply chains.
+The combined approach demonstrated that generative models and large language models (LLMs) can jointly improve logistics decision-making by balancing sustainability and operational practicality. Experimental results showed an average emission reduction of 53% across valid generated routes, confirming the potential of AI-driven optimization for green supply chains.
 
 The findings demonstrate that AI-driven multi-modal logistics design can significantly reduce emissions, supporting the Paris net-zero goals.
 ## Technology Stack
